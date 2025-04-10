@@ -1,7 +1,7 @@
 <h1 align="center">Hey, what's up! I'm Milo Vocker</h1>
-<h3 align="center">Junior Web App Developer. Born, raised and based in Lanzarote, Canary Islands, Spain.</h3>
+- Junior Web App Developer. Born, raised and based in Lanzarote, Canary Islands, Spain.
 
-- 🌍 Multilingual **Spanish (main language), english, french and german**
+- 🌍 Multilingual; **Spanish (main language), english, french and german**
 
 - 📫 How to reach me **milovocker.clase@gmail.com**
 
